@@ -84,3 +84,6 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 .nb-gradle/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
